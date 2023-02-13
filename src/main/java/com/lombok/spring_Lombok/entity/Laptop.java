@@ -9,7 +9,7 @@ import lombok.Data;
 @Entity
 @Data
 public class Laptop {
-
+//wellcome to my world
 	@Id
 	@GeneratedValue
 	private Integer lid;
